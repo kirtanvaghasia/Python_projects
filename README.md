@@ -11,7 +11,7 @@ The Speech Recognition and Text-to-Speech Assistant is a Python-based virtual as
 
 - **Interactive Responses:** Handles basic commands like "hello" and "goodbye" with pre-defined responses.
 
--**Expandable Framework:** Can be extended with additional functionalities such as fetching weather data, jokes, or Wikipedia information.
+- **Expandable Framework:** Can be extended with additional functionalities such as fetching weather data, jokes, or Wikipedia information.
 
 ## Libraries Used
 - **speech_recognition:** For recognizing user speech.
